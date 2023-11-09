@@ -209,7 +209,7 @@ class Ui_MainWindow(object):
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(10, 20, 111, 61))
         self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("Cimation AI robot.png"))
+        self.label_2.setPixmap(QtGui.QPixmap("binary fringe light.jpg"))
         self.label_2.setScaledContents(True)
         self.label_2.setObjectName("label_2")
         self.labelPhaseShift = QtWidgets.QLabel(self.centralwidget)
